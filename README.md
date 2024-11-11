@@ -1,2 +1,3 @@
 # Thesis_DroneSensorSim
  
+This unity project was part of a my thesis where sensor models where supposed to be integrated into an existing multicopter simulation. Under Codes within the Assets folder, you can see the various sensor models and setups. It includes GPS, Magnetometer, Accelerometer, Gyroscope and Barometer. These codes uses satellite data and atmospheric data as well as the world magnetic model for the gps and magnetometer. All these data are available online via n2yo.com and cddis.nasa.gov. This project also includes a 3D model initally created with Blosm in Blender which has been simplified for testing purposes. The focus here was testing functionality before integrating them into an existing multicopter simulation.
